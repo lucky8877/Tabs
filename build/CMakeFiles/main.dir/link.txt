@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/Table/ArrayTable.cpp.o CMakeFiles/main.dir/src/Table/HashArray.cpp.o CMakeFiles/main.dir/src/Table/HashTable.cpp.o CMakeFiles/main.dir/src/Table/ScanTable.cpp.o CMakeFiles/main.dir/src/Table/TabRecord.cpp.o CMakeFiles/main.dir/src/Table/SortTable.cpp.o CMakeFiles/main.dir/src/Table/TreeTable.cpp.o -o main 

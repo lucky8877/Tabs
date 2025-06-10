@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/lucky7788/tables-/src/main.cpp",
+  "file": "/home/lucky7788/tables-/src/main.cpp"
+},
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/Table/ArrayTable.cpp.o -c /home/lucky7788/tables-/src/Table/ArrayTable.cpp",
+  "file": "/home/lucky7788/tables-/src/Table/ArrayTable.cpp"
+},
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/Table/HashArray.cpp.o -c /home/lucky7788/tables-/src/Table/HashArray.cpp",
+  "file": "/home/lucky7788/tables-/src/Table/HashArray.cpp"
+},
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/Table/HashTable.cpp.o -c /home/lucky7788/tables-/src/Table/HashTable.cpp",
+  "file": "/home/lucky7788/tables-/src/Table/HashTable.cpp"
+},
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/Table/ScanTable.cpp.o -c /home/lucky7788/tables-/src/Table/ScanTable.cpp",
+  "file": "/home/lucky7788/tables-/src/Table/ScanTable.cpp"
+},
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/Table/TabRecord.cpp.o -c /home/lucky7788/tables-/src/Table/TabRecord.cpp",
+  "file": "/home/lucky7788/tables-/src/Table/TabRecord.cpp"
+},
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/Table/SortTable.cpp.o -c /home/lucky7788/tables-/src/Table/SortTable.cpp",
+  "file": "/home/lucky7788/tables-/src/Table/SortTable.cpp"
+},
+{
+  "directory": "/home/lucky7788/tables-/build",
+  "command": "/usr/bin/g++  -I/home/lucky7788/tables-/include -g -o CMakeFiles/main.dir/src/Table/TreeTable.cpp.o -c /home/lucky7788/tables-/src/Table/TreeTable.cpp",
+  "file": "/home/lucky7788/tables-/src/Table/TreeTable.cpp"
+}
+]

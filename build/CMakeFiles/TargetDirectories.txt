@@ -1,0 +1,3 @@
+/home/lucky7788/tables-/build/CMakeFiles/main.dir
+/home/lucky7788/tables-/build/CMakeFiles/edit_cache.dir
+/home/lucky7788/tables-/build/CMakeFiles/rebuild_cache.dir
